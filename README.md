@@ -7,7 +7,7 @@
 ---
 <br/>
 
-## Descripción del PY ![alt text](image.png)
+## Descripción del PY ⌨️
 En este desafío programaré la renderización dinámica de propiedades inmobiliarias y aplicaré estilos a partir
 de condicionales.
 
